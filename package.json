@@ -6,9 +6,13 @@
     "start": "parcel src/index.html --open"
   },
   "dependencies": {
+    "@emotion/is-prop-valid": "^1.3.1",
     "date-fns": "^4.1.0",
+    "framer-motion": "^12.6.5",
+    "nullthrows": "^1.1.1",
     "react": "^18.0.0",
-    "react-dom": "^18.0.0"
+    "react-dom": "^18.0.0",
+    "react-draggable": "^4.4.6"
   },
   "devDependencies": {
     "parcel": "^2.0.0"
